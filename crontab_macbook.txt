@@ -1,2 +1,2 @@
 0 2,8,16,23 * * * /usr/local/microsoft/powershell/7/pwsh /Users/jovyllebermudez/Foremost/AsDeveloper/Projects/PowerShells/test1/CreateDailies.ps1 >> /Users/jovyllebermudez/Foremost/AsDeveloper/Projects/PowerShells/test1/logs/wadahel.log 2>&1
-0 18 5,25 * * /Applications/coconutBattery.app  
+0 18 5,25 * * open -a /Applications/coconutBattery.app
